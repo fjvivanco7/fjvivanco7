@@ -17,7 +17,6 @@
   <a href="https://www.instagram.com/fer._.vivanco?igsh=MW1lM2cxeTZqMjJjZA==">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fjvivanco7&style=flat&color=purple" alt="Profile views"/>
 </p>
 
 ---
