@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/fernando-jose-vivanco-zhingre-759199300/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/fer._.vivanco?igsh=MW1lM2cxeTZqMjJjZA==">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=fjvivanco7&style=flat&color=purple" alt="Profile views"/>
 </p>
 
@@ -81,6 +84,7 @@
 <p align="center">
   <a href="https://github.com/fjvivanco7"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-jose-vivanco-zhingre-759199300/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/fer._.vivanco?igsh=MW1lM2cxeTZqMjJjZA=="><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
 ---
