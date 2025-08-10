@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fernando-vivanco">
-    <img src="https://img.shields.io/github/followers/fernando-vivanco?label=Seguidores&style=social" alt="followers"/>
+  <a href="https://github.com/fjvivanco7">
+    <img src="https://img.shields.io/github/followers/fjvivanco7?label=Seguidores&style=social" alt="followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/fernando-vivanco/">
+  <a href="https://www.linkedin.com/in/fernando-jose-vivanco-zhingre-759199300/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fernando-vivanco&style=flat&color=purple" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=fjvivanco7&style=flat&color=purple" alt="Profile views"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
 | **Bases de datos** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-Azure%20Cosmos%20DB-0089D6?logo=azure-cosmos-db&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| **Testing** | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) |
 
 ---
@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando-vivanco&show_icons=true&theme=github_dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-vivanco&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api?username=fjvivanco7&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjvivanco7&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
 </p>
 
 ---
@@ -57,9 +57,9 @@
 ## 🏆 Trofeos & Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fernando-vivanco&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fjvivanco7&theme=onedark&no-frame=true&row=1&column=7"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=fernando-vivanco&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=fjvivanco7&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -69,9 +69,9 @@
 
 | 🔗 Repositorio | 📝 Descripción | 💡 Tecnologías |
 |---------------|----------------|----------------|
-| [**Plataforma Serverless de Pedidos Online**](https://github.com/fernando-vivanco/serverless-food-store) | API y backend en Azure Functions con base de datos CosmosDB para gestión de pedidos. | JavaScript · Azure Functions · CosmosDB |
-| [**Sistema de Detección de Objetos de Tráfico**](https://github.com/fernando-vivanco/traffic-object-detection) | Modelo CNN con YOLO para identificar vehículos y señales en imágenes. | Python · OpenCV · YOLO |
-| [**Página Web Dudu SAS**](https://github.com/fernando-vivanco/dudu-sas-website) | Sitio web corporativo para distribuidor autorizado Claro. | HTML · CSS · JavaScript |
+| [**Plataforma Serverless de Pedidos Online**](https://github.com/fjvivanco7/serverless-food-store) | API y backend en Azure Functions con base de datos CosmosDB para gestión de pedidos. | JavaScript · Azure Functions · CosmosDB |
+| [**Sistema de Detección de Objetos de Tráfico**](https://github.com/fjvivanco7/traffic-object-detection) | Modelo CNN con YOLO para identificar vehículos y señales en imágenes. | Python · OpenCV · YOLO |
+| [**Página Web Dudu SAS**](https://github.com/fjvivanco7/dudu-sas-website) | Sitio web corporativo para distribuidor autorizado Claro. | HTML · CSS · JavaScript |
 
 ---
 </div>
@@ -79,8 +79,8 @@
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:fernando.vivanco@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fernando-vivanco/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/fjvivanco7"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fernando-jose-vivanco-zhingre-759199300/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
