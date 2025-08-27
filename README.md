@@ -24,7 +24,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 **Formación:** _Estudiante de último año de Ingeniería en Tecnologías de la Información_  
-- 💼 **Experiencia:** _Programador en Dudu SAS · Técnico en sistemas operativos y mantenimiento de PCs_  
+- 💼 **Experiencia:** _Programador en Dudu SAS · Técnico en sistemas operativos y desarrollador_  
 - 🛠️ **Stack principal:** _JavaScript · Python · React · Java · Angular · Node.js · Azure · AWS_  
 - 🌱 **Actualmente aprendiendo:** _Ciberseguridad (Analista en SOC) · Minería de datos · Serverless Architecture_  
 - 🤝 **Interés en colaborar** en proyectos **Open Source** de análisis de datos, cloud computing y seguridad informática  
