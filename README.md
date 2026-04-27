@@ -3,7 +3,7 @@
 
 <!-- Descripción corta -->
 <p align="center">
-  Estudiante de Ingeniería en Tecnologías de la Información, apasionado por la programación, la ciberseguridad y la analítica de datos.<br/>
+  Ingeniero en Tecnologías de la Información, apasionado por la programación, la ciberseguridad y la analítica de datos.<br/>
   Me motiva aprender tecnologías que permitan crear soluciones escalables, seguras y con impacto real.
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 **Formación:** _Estudiante de último año de Ingeniería en Tecnologías de la Información_  
+- 🎓 **Formación:** _Ingeniero en Tecnologías de la Información_  
 - 💼 **Experiencia:** _Programador en Dudu SAS · Técnico en sistemas operativos y desarrollador_  
 - 🛠️ **Stack principal:** _JavaScript · Python · React · Java · Angular · Node.js · Azure · AWS_  
 - 🌱 **Actualmente aprendiendo:** _Ciberseguridad (Analista en SOC) · Minería de datos · Serverless Architecture_  
